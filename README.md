@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 'Altrade' with ONDC Integration<br>🌱 I’m currently learning Rust, Nextjx, Typescript and PostgreSQL<br>😃 Coding for fun :)
+🔭 I’m currently working on 'Altrade' with ONDC Integration<br>🌱 I’m currently learning Rust, Typescript and PostgreSQL<br>😃 Coding for fun :)
 
 
 # 💻 Tech Stack:
