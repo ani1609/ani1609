@@ -1,4 +1,4 @@
-# <img src="images/wave.gif" alt="Hi" height="45" width="45"/> Hello, I'm Ankit Kr. Chowdhury
+# <img src="assets/wave.gif" alt="Hi" height="45" width="45"/> Hello, I'm Ankit Kr. Chowdhury
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer;Open-Source+Contributor;B.Tech+Computer+Science+Student;2%2B+Years+of+Coding+Experience)
 
