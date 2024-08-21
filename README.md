@@ -11,30 +11,31 @@ const aboutMe = {
   languages: ["TypeScript", "JavaScript", "Bash", "C/C++", "Rust"],
   technologies: {
     frontEnd: {
-      ts: {
-        framework: ["React.js", "Vue.js"],
-        metaFramework: "Next.js",
+      frameworks: {
+        js: ["React.js", "Vue.js"],
+        meta: ["Next.js"],
       },
-      css: ["Tailwind CSS", "Bootstrap"],
+      styling: ["Tailwind CSS", "Bootstrap"],
     },
     backEnd: {
-      framework: ["Node.js", "Express.js", "Rust"],
-      orm: "Mongoose, Prisma",
-      baas: "Firebase",
+      languages: ["JavaScript", "Rust"],
+      frameworks: ["Node.js", "Express.js"],
+      orm: ["Mongoose", "Prisma"],
+      baas: ["Firebase"],
     },
     databases: ["PostgreSQL", "MongoDB"],
-    Libraries: ["GreenSock", "Socket.io"],
+    libraries: ["GSAP", "Framer Motion", "Socket.io"],
     misc: {
       serverless: ["Vercel", "Netlify"],
       versionControl: ["Git", "GitHub"],
-      packageManager: ["npm", "pnpm", "yarn"],
+      packageManagers: ["npm", "pnpm", "yarn"],
       authentication: ["Firebase Auth", "Auth0"],
-      codeEditor: ["Visual Studio Code", "Sublime Text"],
-      design: ["Figma", "Canva"],
+      codeEditors: ["Visual Studio Code", "Sublime Text"],
+      designTools: ["Figma", "Canva"],
     },
   },
-  currentOccupation: "Student, open for internship opportunities",
-  challenge: "Learn the most efficient tech stacks available out there",
+  currentOccupation: "Student, open to internship opportunities.",
+  challenge: "Master the most efficient tech stacks available out there.",
   funFact: "life",
 };
 ```
