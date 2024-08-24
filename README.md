@@ -40,6 +40,4 @@ const aboutMe = {
 };
 ```
 
-![ani1609's Stats](https://github-readme-stats.vercel.app/api?username=ani1609&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-
-![ani1609's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ani1609&theme=algolia&hide_border=true)
+![ani1609's Stats](https://github-readme-stats.vercel.app/api?username=ani1609&theme=algolia&show_icons=true&hide_border=true&count_private=true) ![ani1609's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ani1609&theme=algolia&hide_border=true)
