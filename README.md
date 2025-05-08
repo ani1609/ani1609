@@ -36,8 +36,7 @@ const aboutMe = {
   },
   currentOccupation: "Student, open to internship opportunities.",
   challenge: "Master the most efficient tech stacks available out there.",
-  funFact: "life",
-  hire: "pnpm add me",
+  funFact: "life"
 };
 ```
 
