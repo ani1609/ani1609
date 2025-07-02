@@ -1,43 +1,20 @@
-# <img src="assets/wave.gif" alt="Hi" height="45" width="45"/> Hello, I'm Ankit Kr. Chowdhury
+# Ankit Kr. Chowdhury
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer;Open-Source+Contributor;B.Tech+Computer+Science+Student;3%2B+Years+of+Coding+Experience)
+**Full‑stack & AI developer building scalable apps and automation systems.**
 
-## 💫 About Me:
+[GitHub](https://github.com/ankitchowdhury-stacks) · [LinkedIn](https://www.linkedin.com/in/ankitchowdhurydev) · [Resume](https://drive.google.com/file/d/1TwR-55aGlTHmAWWEtV25K5dMNYSHEhJG/view?usp=drive_link) · [Email](mailto:ankitparallax@gmail.com) · [Discord](https://discordapp.com/users/754188469764358264)
 
-```typescript
-const aboutMe = {
-  name: "Ankit Kumar Chowdhury",
-  email: "ankitparallax@gmail.com",
-  languages: ["TypeScript", "JavaScript", "Bash", "C/C++", "Rust"],
-  technologies: {
-    frontEnd: {
-      frameworks: {
-        js: ["React.js", "Vue.js"],
-        meta: ["Next.js"],
-      },
-      styling: ["Tailwind CSS", "Bootstrap"],
-    },
-    backEnd: {
-      languages: ["JavaScript", "Rust"],
-      frameworks: ["Node.js", "Express.js"],
-      orm: ["Mongoose", "Prisma"],
-      baas: ["Firebase"],
-    },
-    databases: ["PostgreSQL", "MongoDB"],
-    libraries: ["GSAP", "Framer Motion", "Socket.io"],
-    misc: {
-      serverless: ["Vercel", "Netlify"],
-      versionControl: ["Git", "GitHub"],
-      packageManagers: ["npm", "pnpm", "yarn"],
-      authentication: ["Firebase Auth", "Auth0"],
-      codeEditors: ["Visual Studio Code", "Sublime Text"],
-      designTools: ["Figma", "Canva"],
-    },
-  },
-  currentOccupation: "Student, open to internship opportunities.",
-  challenge: "Master the most efficient tech stacks available out there.",
-  funFact: "life",
-};
-```
+---
 
-![ani1609's Stats](https://github-readme-stats.vercel.app/api?username=ani1609&theme=algolia&show_icons=true&hide_border=true&count_private=true) ![ani1609's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ani1609&theme=algolia&hide_border=true)
+### What I’m up to
+
+* 🚀 Building real‑world tools using Next.js, Go, and LLMs  
+* 🧠 Exploring vector databases and AI‑driven systems  
+* 🛠️ Co‑running Initify — a dev agency helping startups ship faster  
+
+---
+
+### Let’s talk
+
+Have an idea, looking for a developer, or just want to geek out about web infra and AI?  
+**DM me or email — coffee’s on me if we’re in the same city.**
