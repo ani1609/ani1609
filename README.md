@@ -2,7 +2,7 @@
 
 **Full‑stack & AI developer building scalable apps and automation systems.**
 
-[GitHub](https://github.com/ankitchowdhury-stacks) · [LinkedIn](https://www.linkedin.com/in/ankitchowdhurydev) · [Resume](https://drive.google.com/file/d/1TwR-55aGlTHmAWWEtV25K5dMNYSHEhJG/view?usp=drive_link) · [Email](mailto:ankitparallax@gmail.com) · [Discord](https://discordapp.com/users/754188469764358264)
+[GitHub](https://github.com/ankitchowdhury-stacks) · [LinkedIn](https://www.linkedin.com/in/ankitchowdhurydev) · [Resume](https://drive.google.com/file/d/1pVxggeK2FtQd9Qt2zSbHnl-8XpUwRMyN/view?usp=sharing) · [Email](mailto:ankitparallax@gmail.com) · [Discord](https://discordapp.com/users/754188469764358264)
 
 ---
 
