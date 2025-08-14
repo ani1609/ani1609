@@ -2,7 +2,7 @@
 
 **Full‑stack & AI developer building scalable apps and automation systems.**
 
-[GitHub](https://github.com/ankitchowdhury-stacks) · [LinkedIn](https://www.linkedin.com/in/ankitchowdhurydev) · [Resume](https://drive.google.com/file/d/1pVxggeK2FtQd9Qt2zSbHnl-8XpUwRMyN/view?usp=sharing) · [Email](mailto:ankitparallax@gmail.com) · [Discord](https://discordapp.com/users/754188469764358264)
+[GitHub](https://github.com/ankitchowdhury-stacks) · [LinkedIn](https://www.linkedin.com/in/ankitchowdhurydev) · [Resume]([https://drive.google.com/file/d/1pVxggeK2FtQd9Qt2zSbHnl-8XpUwRMyN/view?usp=sharing](https://drive.google.com/file/d/1upTC9qBkX0smjBjvBLTTw7bXSLGMb6Ml/view?usp=sharing)) · [Email](mailto:ankitparallax@gmail.com) · [Discord](https://discordapp.com/users/754188469764358264)
 
 ---
 
@@ -10,7 +10,7 @@
 
 * 🚀 Building real‑world tools using Next.js, Go, and LLMs  
 * 🧠 Exploring vector databases and AI‑driven systems  
-* 🛠️ Co‑running Initify — a dev agency helping startups ship faster  
+* ☁️ Designing and deploying cloud-native apps with Docker, Kubernetes, and AWS  
 
 ---
 
