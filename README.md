@@ -16,5 +16,5 @@
 
 ### Let’s talk
 
-Have an idea, looking for a developer, or just want to geek out about web infra and AI?  
+Have an idea, looking for a software engineer, or just want to geek out about web platforms, cloud-native systems, DevOps workflows, or AI-powered applications?  
 **DM me or email — coffee’s on me if we’re in the same city.**
